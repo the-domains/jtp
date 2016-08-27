@@ -1,0 +1,28 @@
+name: Julia Pasquale
+favicon: null
+layout_spectrum: 0.018465089378878474
+typography_spectrum: 0.9266339361201972
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9723866530694067
+  lightness: 0.2950279291253537
+  saturation: 0.35962162376381457
+  rhythmicContrast: 0.014277431881055236
+purpose: []
